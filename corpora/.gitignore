@@ -1,0 +1,4 @@
+treebank_3
+*.original
+*.stripped
+*.dictionary
